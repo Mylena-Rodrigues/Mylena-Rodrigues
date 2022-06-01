@@ -11,7 +11,7 @@
 - 🇧🇷 **Portuguese (Brazil)**: first language
 - 🇺🇸 **English**: intermediate
 - 🇪🇸 **Spanish**: basic
-
+</br>
 
 ⚔️ **Skills** 
 <div>
@@ -27,8 +27,9 @@
   <img src="https://img.shields.io/badge/Selenium+Java-7CFC00?style=for-the-badge&logo=selenium&logoColor=black" />
   <img src="https://img.shields.io/badge/Cypress-4F4F4F?style=for-the-badge&logo=cypress&logoColor=white" />
 </div>
+</br>
 
-
+:octocat: **GitHub**
 <div> 
   <a href="https://github.com/Mylena-Rodrigues"> 
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mylena-Rodrigues&show_icons=true&theme=default&include_all_commits=true&count_private=true">
